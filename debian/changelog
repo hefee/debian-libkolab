@@ -1,3 +1,9 @@
+libkolab (0.6.0-0~kolab1) unstable; urgency=medium
+
+  * Upstream release 0.6.0
+
+ -- Sandro Knauß (Kolab Systems) <knauss@kolabsys.com>  Mon, 02 Feb 2015 13:46:05 +0100
+
 libkolab (0.6~dev20150112-0~kolab2)  unstable; urgency=low
 
   * make sure the dummy plugin is loaded before all other plugins to workaround httpd reload issue (#2050)
